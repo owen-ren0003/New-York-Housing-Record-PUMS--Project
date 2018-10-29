@@ -3,7 +3,6 @@
 Glossary of Terms:
 
 TYPE OF HOUSING (Units attached to the home)
-
   N/A 
   1. Mobile home or trailer
   2. One-family house detached
