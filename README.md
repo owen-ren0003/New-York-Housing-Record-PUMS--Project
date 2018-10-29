@@ -3,7 +3,7 @@
 Glossary of Terms:
 
 TYPE OF HOUSING (Units attached to the home)
-  N/A 
+
   1. Mobile home or trailer
   2. One-family house detached
   3. One-family house attached
@@ -14,3 +14,4 @@ TYPE OF HOUSING (Units attached to the home)
   8. 20-49 Apartments
   9. 50 or more apartments
   10. Boat, RV, van, etc.
+  NA - Not available
